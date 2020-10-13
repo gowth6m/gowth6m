@@ -1,7 +1,7 @@
 ### Hi there, I'm Gowtham - Computer Science student at University of Exeter! 
 
 - 🌱 I’m currently learning everything 😂
-- 🤖 Favorite programming language: either Python
+- 🤖 Favorite programming language: Python
 - ⚡  Fun fact: I love to draw and do powerlifting 🏋🏻‍
 
 ### Languages and Tools:
