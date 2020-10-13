@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and do powerlifting
-
 <br />
-<br />
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
