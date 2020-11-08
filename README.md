@@ -22,7 +22,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  :zap: GitHub Stats
   <div align="center">
                 <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&theme=nord" />
                 <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&theme=nord" />
