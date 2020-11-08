@@ -23,8 +23,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img alt="gowth6m's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gowth6m&show_icons=true&hide_border=true"/>
+  <div align="center">
+                <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&theme=nord" />
+                <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&theme=nord" />
+                <img src="https://github-readme-stats-three-sepia.vercel.app/api/wakatime?username=@gowth6m&theme=nord" />
+  </div>
 
 </details>
 
