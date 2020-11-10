@@ -1,5 +1,5 @@
 ### Hi there, I'm Gowtham - Computer Science student at University of Exeter! 
-<img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/>
+
 - 🌱 I’m currently learning a bit of everything 😂
 - 🤖 Favorite programming language: Python
 
