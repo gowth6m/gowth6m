@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gowtham - Computer Science student at University of Exeter! 
 
 - 🌱 I’m currently learning a bit of everything 😂
-- But I'm trying to mainly get into iOS development using Swift
+- But I'm currently trying to get into iOS development using Swift
 - 🤖 Favorite programming language: Java
 
 ### Languages and Tools:
