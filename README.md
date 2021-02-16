@@ -3,9 +3,8 @@
 - 🐢 I’m currently learning a bit of everything
 - 👾 Trying to get into iOS app development with Swift
 - 🐳 Favorite programming language: Java
-<div align="right" width="200">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
-</div>
+
+<img lign="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
 ### Languages and Tools:
 <div align="center">
