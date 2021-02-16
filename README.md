@@ -2,14 +2,14 @@
 <img lign="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
 ```javascript
-let stack = {
+const stack = {
 	areasOfInterest: ["Front-end", "App development", "Data science"],
 	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
 	learning: ["Swift", "Haskell", "C-Family", "TensorFlow", "SQL", "PHP"],
 	frameworks: ["Django", "Vue.js"],
 };
 
-const hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
+var hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
 ```
 
 <div align="center">
