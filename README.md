@@ -6,14 +6,12 @@
 
 <img lign="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
-### My Stack
 ```javascript
-const skills = {
-	areasOfInterest: ["fullstack", "firmware", "embedded systems"],
-	proficient: ["Python"],
-	learning: ["Go", "Java", "Javascript", "Haskell", "Prolog", "C", "CSS", "PHP", "HTML"],
-	frameworks: ["Django"],
-	design: ["Inkscape", "Illustrator", "Adobe Xd", "Procreate", "Vectornator"]
+const stack = {
+	areasOfInterest: ["front-end", "app development", "data science"],
+	proficient: ["python", "java", "html", "css", "javascript"],
+	learning: ["swift", "haskell", "c++", "c", "php", "sql"],
+	frameworks: ["django", "vue.js"],
 };
 ```
 
