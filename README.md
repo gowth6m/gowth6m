@@ -8,7 +8,7 @@
 </div>
 
 <br>
-# Languages and Tools:
+## Languages and Tools:
 <div align="center">
   <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
   <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
