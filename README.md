@@ -1,18 +1,15 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gowtham - Computer Science student at University of Exeter! 
-
-- 🐢 I’m currently learning a bit of everything
-- 👾 Trying to get into iOS app development with Swift
-- 🐳 Favorite programming language: Java
-
 <img lign="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
 ```javascript
-const stack = {
-	areasOfInterest: ["front-end", "app development", "data science"],
-	proficient: ["python", "java", "html", "css", "javascript"],
-	learning: ["swift", "haskell", "c++", "c", "php", "sql"],
-	frameworks: ["django", "vue.js"],
+let stack = {
+	areasOfInterest: ["Front-end", "App development", "Data science"],
+	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
+	learning: ["Swift", "Haskell", "C-Family", "TensorFlow", "SQL", "PHP"],
+	frameworks: ["Django", "Vue.js"],
 };
+
+const hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
 ```
 
 <div align="center">
