@@ -1,7 +1,7 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - I'm Gowtham
 <table border="0">
  <tr>
-	<b style="font-size:30px">I'm Gowtham - a second year Computer Science student at University of Exeter! </b>
+	<b style="font-size:30px">A second year Computer Science student at University of Exeter! </b>
  </tr>
  <tr>
     <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
