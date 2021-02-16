@@ -1,14 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gowtham - Computer Science student at University of Exeter! 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
-<table border="0">
- <tr>
-    random text
- </tr>
- <tr>
-    <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
- </tr>
-</table>
+
 
 ```javascript
 const stack = {
