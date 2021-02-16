@@ -7,7 +7,6 @@
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 </div>
 
-<br/ >
 ### Languages and Tools:
 <div align="center">
   <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
@@ -22,7 +21,7 @@
   <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
   <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 </div>
-<br/ >
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&hide_border=false&theme=gotham" />
