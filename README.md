@@ -18,6 +18,7 @@ const stack = {
 	frameworks: ["Django", "Vue.js"],
 };
 
+
 var hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
 ```
 
