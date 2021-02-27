@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/3oKIPn5EmNia9HSaTC/giphy.gif" width="35px"> I'm Gowtham
+# Hey there <img src="https://media.giphy.com/media/ONHgoOcrRGk0Sacv1G/giphy.gif" width="35px"> I'm Gowtham
 
 <table border="0">
  <tr>
