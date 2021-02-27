@@ -26,6 +26,10 @@ var hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
   <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&hide_border=true&theme=gotham" />
 </div>
 
+[![Weekly stats]
+(https://github-readme-stats.vercel.app/api/wakatime?username=gowth6m)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [website]: https://gowtham.co.uk/
 [linkedin]: https://linkedin.com/in/gowtham4n/
