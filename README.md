@@ -16,8 +16,8 @@ const stack = {
 	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
 	learning: ["Swift", "Haskell", "C-Family", "TensorFlow", "SQL", "PHP"],
 	frameworks: ["Django", "Vue.js"],
+	areasOfInterest: ["Front-end", "App development", "Data science"],
 };
-
 
 var hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
 ```
