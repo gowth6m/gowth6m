@@ -22,8 +22,8 @@ var hobbies = ["Powerlifting" ,"Hiking", "Painting/Sketching"];
 ```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&hide_border=true&theme=blue-green&bg_color=#ffffff00" />
-  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&hide_border=true&theme=blue-green&bg_color=#ffffff00" />
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api?username=gowth6m&show_icons=true&hide_border=true&theme=blue-green&bg_color=linear-gradient(#e66465, #9198e5)" />
+  <img height="180em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=gowth6m&layout=compact&exclude_repo=github-readme-stats&hide_border=true&theme=blue-green&bg_color=linear-gradient(#e66465, #9198e5)" />
 </div>
 
 
