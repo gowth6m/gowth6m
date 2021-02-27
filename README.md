@@ -1,5 +1,5 @@
 <!-- # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Gowtham -->
-# Hey there <img src="https://media.giphy.com/media/JUq9ohFN2eSLJllrkd/giphy.gif" width="35px"> I'm Gowtham
+# Hey there <img src="https://media.giphy.com/media/KjuQizGwJCsgoYdziS/giphy.gif" width="35px"> I'm Gowtham
 
 <table border="0">
  <tr>
