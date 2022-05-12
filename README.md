@@ -14,7 +14,7 @@
 ```javascript
 const stack = {
 	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
-	learning: ["Swift", "Haskell", "C-Family", "TensorFlow", "SQL", "PHP"],
+	learning: ["Swift", "Haskell", "C-Family", "PyTorch", "SQL", "PHP"],
 	frameworks: ["Django", "Vue.js"],
 	areasOfInterest: ["Front-end", "App development", "Data science"],
 };
