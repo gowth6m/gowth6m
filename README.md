@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-	<b style="font-size:30px">A final year Computer Science student at University of Exeter! </b>
+	<b style="font-size:30px">An App Developer at University of Exeter! </b>
  </tr>
  <tr>
 	 <img align="right" src="https://i.giphy.com/media/Qyml5wziJeHreuOdzu/giphy.webp" width="200"/>
@@ -15,7 +15,7 @@
 const stack = {
 	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
 	learning: ["Swift", "Haskell", "C-Family", "PyTorch", "SQL", "PHP"],
-	frameworks: ["Django", "Vue.js", "Flutter"],
+	frameworks: ["Django", "Vue.js", "Flutter", "React"],
 	areasOfInterest: ["Front-end", "App development", "Data science"],
 };
 
