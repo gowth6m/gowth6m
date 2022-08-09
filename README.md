@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-	<b style="font-size:30px">An App Developer at the University of Exeter! </b>
+	<b style="font-size:30px">App Developer at the University of Exeter! </b>
  </tr>
  <tr>
 	 <img align="right" src="https://i.giphy.com/media/Qyml5wziJeHreuOdzu/giphy.webp" width="200"/>
