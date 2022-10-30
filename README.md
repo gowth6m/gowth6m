@@ -13,8 +13,8 @@
 
 ```javascript
 const stack = {
-	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript"],
-	learning: ["Swift", "Haskell", "C-Family", "PyTorch", "SQL", "PHP"],
+	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript", "Dart"],
+	learning: ["Swift", "C", "C++", "PyTorch", "SQL", "PHP"],
 	frameworks: ["Django", "Vue.js", "Flutter", "React"],
 	areasOfInterest: ["Front-end", "App development", "Data science"],
 };
