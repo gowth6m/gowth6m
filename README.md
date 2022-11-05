@@ -1,4 +1,4 @@
-# Hey there! I'm Gowtham!
+# Hey there! I'm Gowtham
 
 <table border="0">
  <tr>
