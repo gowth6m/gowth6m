@@ -15,7 +15,7 @@
 const stack = {
 	proficient: ["Python", "Java", "HTML", "CSS", "JavaScript", "Dart"],
 	learning: ["Swift", "C", "C++", "PyTorch", "SQL", "PHP"],
-	frameworks: ["Django", "Vue.js", "Flutter", "React"],
+	frameworks: ["Django", "Vue.js", "Flutter", "React.js"],
 	areasOfInterest: ["Front-end", "App development", "Data science"],
 };
 
