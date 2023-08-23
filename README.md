@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-	<b style="font-size:30px">Software Engineer at HIVED</b>
+	<b style="font-size:30px">Software Engineer at Pollen Technologies</b>
  </tr>
  <tr>
 	 <img align="right" src="https://i.giphy.com/media/Qyml5wziJeHreuOdzu/giphy.webp" width="200"/>
