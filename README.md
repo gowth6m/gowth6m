@@ -3,6 +3,7 @@
 <table border="0">
  <tr>
     <b style="font-size:30px">Software Engineer at Pollen Technologies</b>
+    <div></div>
  </tr>
  <tr>
     <td align="left">
