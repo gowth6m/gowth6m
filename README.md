@@ -2,7 +2,7 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Software Engineer at Pollen Technologies</b></td>
+    <b style="font-size:30px">Software Engineer at Pollen Technologies</b>
  </tr>
  <tr>
     <td align="left">
