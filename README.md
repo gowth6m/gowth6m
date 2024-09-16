@@ -10,5 +10,5 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/> -->
 <div align="center">
-    <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdlaGwwODFwMmxwdW5oN2NxbHJjZWJ6dm51a2dwN2ppOHZuajEwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="100%" height="400px" />
+    <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ5bjRpb3N5bzlodG5xcXM1NGw3bXp5Ymx6ZzVyOTExYjJyczVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.webp" width="100%" height="400px" />
 </div>
